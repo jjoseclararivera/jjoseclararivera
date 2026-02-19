@@ -1,36 +1,33 @@
-# Juan José Clara
+# Mi nombre es Juan José Clara
 
-Experto en programación empresarial con mas de 15 años de experiencia.
+Experto en programación con mas de 15 años de experiencia.
 
-## skills
+## Habilidades
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+- He realizado programación
+- Banca
+- Bursatil
+- Comercios
+- Agricultura
 
-```bash
-pip install foobar
+ 
+## Habilidades Blandas
+- Facilidad de palabras
+- Facilidad conectar con usuarios
+
+
+## Lenguajes
+
+```Lenguajes
+
+- JavaScript
+- C#
+- Reactjs + TypeScript
+- VB
+- C++
+- Turbo C
+
 ```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 
