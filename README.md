@@ -1,45 +1,112 @@
 <p align="center">
-  <img src="imagenes/jclara5.png" alt="Banner Juan José Clara" />
+  <img src="imagenes/jclara5.png" width="180" alt="Juan José Clara" style="border-radius:50%" />
 </p>
 
 <h1 align="center">👋 Juan José Clara</h1>
 
 <p align="center">
-  Desarrollador Fullstack | React | .NET | ERP DagoNet
+  <strong>Fullstack Developer</strong><br/>
+  React · .NET · TypeScript · ERP Specialist
 </p>
 
+<p align="center">
+  💼 Creador de <strong>DagoNet ERP</strong> · 🚀 +X años construyendo soluciones empresariales
+</p>
 
-## Habilidades
+---
 
-- He realizado programación en las siguientes areas
-- Banca
-- Bursatil
-- Comercios
-- Agricultura
-- Restaurantes
-- Ayuntamientos
+## 🧠 Sobre mí
 
- 
-## Habilidades Blandas
-- Facilidad de palabras
-- Facilidad conectar con usuarios
+Desarrollador Fullstack enfocado en la construcción de sistemas empresariales robustos y escalables.  
+Experiencia diseñando e implementando soluciones para múltiples sectores productivos, con fuerte orientación a la calidad del código, arquitectura limpia y experiencia de usuario.
 
+---
 
-## Lenguajes
+## 🏢 Experiencia por sector
 
-```Lenguajes
+He desarrollado software para:
 
-- JavaScript
-- C#
-- Reactjs + TypeScript
-- VB.net
-- C++
-- VB
-- VB script para ofimatica
-- Turbo C
+- 🏦 Banca  
+- 📈 Mercado bursátil  
+- 🛒 Comercios  
+- 🌱 Agricultura  
+- 🍽️ Restaurantes  
+- 🏛️ Ayuntamientos  
 
-```
+---
 
-## License
+## 🛠️ Stack Tecnológico
 
-[MIT](https://choosealicense.com/licenses/mit/) todos los proyectos publicos
+### Lenguajes
+
+- JavaScript / TypeScript  
+- C#  
+- VB.NET  
+- C++  
+- Visual Basic clásico  
+- VBScript (Ofimática)  
+- Turbo C  
+
+### Frontend
+
+- React  
+- Vite  
+- TailwindCSS  
+- Next.js  
+
+### Backend
+
+- .NET  
+- Node.js  
+- APIs REST  
+- Prisma ORM  
+- SQL Server  
+
+---
+
+## 🤝 Habilidades Blandas
+
+- 🗣️ Comunicación clara con usuarios y stakeholders  
+- 🔗 Facilidad para conectar con equipos de negocio  
+- 🎯 Enfoque en solución de problemas  
+- 🚀 Mentalidad de mejora continua  
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark" />
+</p>
+
+---
+
+## 📌 Proyecto Destacado
+
+### 🚀 DagoNet ERP
+
+Sistema ERP ligero orientado a equipos empresariales que requieren control operativo eficiente y modular.
+
+**Características clave:**
+
+- Multi-empresa  
+- Control de usuarios y roles  
+- Arquitectura moderna  
+- Alto rendimiento  
+
+---
+
+## 📄 Licencia
+
+Todos los proyectos públicos están bajo licencia **MIT**.
+
+---
+
+<p align="center">
+  ⭐ Siempre construyendo soluciones que generan valor real
+</p>
+
