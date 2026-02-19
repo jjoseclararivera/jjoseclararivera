@@ -1,11 +1,6 @@
 <!-- ===== BANNER ===== -->
 <p align="center">
-  <img src="imagenes/banner.png" alt="Juan José Clara banner" />
-</p>
-
-<!-- ===== AVATAR ===== -->
-<p align="center">
-  <img src="imagenes/jclara5.png" width="160" style="border-radius:50%" />
+  <img src="imagenes/banner1.png" alt="Juan José Clara banner" />
 </p>
 
 <!-- ===== TYPING EFFECT ===== -->
