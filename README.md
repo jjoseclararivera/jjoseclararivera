@@ -8,11 +8,13 @@ Experto en programación con mas de 15 años de experiencia.
 
 ## Habilidades
 
-- He realizado programación
+- He realizado programación en las siguientes areas
 - Banca
 - Bursatil
 - Comercios
 - Agricultura
+- Restaurantes
+- Ayuntamientos
 
  
 ## Habilidades Blandas
@@ -27,8 +29,10 @@ Experto en programación con mas de 15 años de experiencia.
 - JavaScript
 - C#
 - Reactjs + TypeScript
-- VB
+- VB.net
 - C++
+- VB
+- VB script para ofimatica
 - Turbo C
 
 ```
