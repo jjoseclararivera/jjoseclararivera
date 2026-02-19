@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagenes/banner.png" alt="Banner Juan José Clara" />
+  <img src="imagenes/jclara5.png" alt="Banner Juan José Clara" />
 </p>
 
 <h1 align="center">👋 Juan José Clara</h1>
