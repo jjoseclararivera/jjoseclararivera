@@ -1,14 +1,13 @@
 <p align="center">
-  <img src="imagenes/jclara5.png" />
+  <img src="imagenes/banner.png" alt="Banner Juan José Clara" />
 </p>
+
+<h1 align="center">👋 Juan José Clara</h1>
 
 <p align="center">
-  <img width="180" src="imagenes/jclara5.png" style="border-radius:50%" />
+  Desarrollador Fullstack | React | .NET | ERP DagoNet
 </p>
 
-# 👋 Mi nombre es Juan José Clara
-
-Experto en programación con mas de 15 años de experiencia.
 
 ## Habilidades
 
