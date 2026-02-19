@@ -67,8 +67,6 @@ Actualmente enfocado en el desarrollo de **DagoNet ERP**, una plataforma moderna
 
 ## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app" />
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjoseclararivera&theme=tokyonight&hide_border=true" />
 </p>
