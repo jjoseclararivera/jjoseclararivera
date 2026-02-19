@@ -1,4 +1,0 @@
-# En este directorio encontraras las imagenes usadas en el readme.md
-
-- banner1.png es el top de readme
-- jclara5.png es la imagen del repo
