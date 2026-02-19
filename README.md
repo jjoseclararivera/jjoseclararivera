@@ -84,6 +84,11 @@ Actualmente enfocado en el desarrollo de **DagoNet ERP**, una plataforma moderna
   <img src="https://raw.githubusercontent.com/jjoseclararivera/jjoseclararivera/output/snake.svg" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jjoseclararivera/jjoseclararivera/output/snake.svg" />
+</p>
+
+
 > ⚠️ El snake requiere GitHub Action (abajo te explico)
 
 ---
