@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="imagenes/jclara5.png" alt="Banner de Juan José Clara" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="imagenes/jclara5.png">
+    <source media="(prefers-color-scheme: light)" srcset="imagenes/jclara5.png">
+    <img alt="Juan José Clara banner" src="imagenes/jclara5.png">
+  </picture>
 </p>
+
+# 👋 Mi nombre es Juan José Clara
 
 # Mi nombre es Juan José Clara
 
