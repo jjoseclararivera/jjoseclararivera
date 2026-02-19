@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagenes/banner.png" alt="Banner de Juan José Clara" />
+  <img src="imagenes/jclara5.png" alt="Banner de Juan José Clara" />
 </p>
 
 # Mi nombre es Juan José Clara
