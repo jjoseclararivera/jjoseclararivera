@@ -1,3 +1,7 @@
+<picture>
+  <img width="250px" alt="jclara" src="https://neon.com/brand/neon-logo-dark-color.svg?new">
+</picture>
+
 # Mi nombre es Juan José Clara
 
 Experto en programación con mas de 15 años de experiencia.
