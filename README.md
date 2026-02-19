@@ -76,11 +76,11 @@ He desarrollado software para:
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jjoseclararivera&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjoseclararivera&theme=dark" />
 </p>
 
 ---
