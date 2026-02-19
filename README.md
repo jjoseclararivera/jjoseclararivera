@@ -1,5 +1,5 @@
 <picture>
-  <img width="250px" alt="jclara" src="https://neon.com/brand/neon-logo-dark-color.svg?new">
+  <img width="250px" alt="jclara" src="imagenes/jclara4.png">
 </picture>
 
 # Mi nombre es Juan José Clara
