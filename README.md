@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagenes/jclara5.png" width="180" alt="Juan José Clara" />
+  <img src="imagenes/jclara5.png" alt="Juan José Clara" />
 </p>
 
 <h1 align="center">👋 Mi nombre: Juan José Clara</h1>
