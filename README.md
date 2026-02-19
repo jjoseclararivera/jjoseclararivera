@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="imagenes/jclara5.png" width="180" alt="Juan José Clara" style="border-radius:50%" />
+  <img src="imagenes/jclara5.png" width="180" alt="Juan José Clara" />
 </p>
 
-<h1 align="center">👋 Juan José Clara</h1>
+<h1 align="center">👋 Mi nombre: Juan José Clara</h1>
 
 <p align="center">
   <strong>Fullstack Developer</strong><br/>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  💼 Creador de <strong>DagoNet ERP</strong> · 🚀 +X años construyendo soluciones empresariales
+  💼 Creador de <strong>DagoNet ERP</strong> · 🚀 +20 años construyendo soluciones empresariales
 </p>
 
 ---
