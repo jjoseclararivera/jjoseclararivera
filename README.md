@@ -80,9 +80,11 @@ Actualmente enfocado en el desarrollo de **DagoNet ERP**, una plataforma moderna
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jjoseclararivera/jjoseclararivera/output/snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jjoseclararivera/jjoseclararivera/output/snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/jjoseclararivera/jjoseclararivera/output/snake.svg">
+</picture>
+
 
 
 ## 🚀 Proyecto Destacado
