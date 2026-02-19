@@ -1,30 +1,35 @@
+<!-- ===== BANNER ===== -->
 <p align="center">
-  <img src="imagenes/jclara5.png" alt="Juan José Clara" />
+  <img src="imagenes/banner.png" alt="Juan José Clara banner" />
 </p>
 
-<h1 align="center">👋 Mi nombre: Juan José Clara</h1>
-
+<!-- ===== AVATAR ===== -->
 <p align="center">
-  <strong>Fullstack Developer</strong><br/>
-  React · .NET · TypeScript · ERP Specialist
+  <img src="imagenes/jclara5.png" width="160" style="border-radius:50%" />
 </p>
 
+<!-- ===== TYPING EFFECT ===== -->
+<h1 align="center">Juan José Clara</h1>
+
 <p align="center">
-  💼 Creador de <strong>DagoNet ERP</strong> · 🚀 +20 años construyendo soluciones empresariales
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;React+%7C+.NET+Specialist;ERP+Architect;Building+DagoNet&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🧠 Sobre mí
+## 🚀 Sobre mí
 
-Desarrollador Fullstack enfocado en la construcción de sistemas empresariales robustos y escalables.  
-Experiencia diseñando e implementando soluciones para múltiples sectores productivos, con fuerte orientación a la calidad del código, arquitectura limpia y experiencia de usuario.
+Desarrollador **Fullstack Senior** especializado en construcción de sistemas empresariales robustos y escalables.  
+Actualmente enfocado en el desarrollo de **DagoNet ERP**, una plataforma moderna para gestión empresarial multi-empresa.
+
+- 🧠 Enfoque en arquitectura limpia  
+- ⚡ Optimización de rendimiento  
+- 🏗️ Diseño de sistemas empresariales  
+- 🎯 Orientado a resultados de negocio  
 
 ---
 
 ## 🏢 Experiencia por sector
-
-He desarrollado software para:
 
 - 🏦 Banca  
 - 📈 Mercado bursátil  
@@ -39,64 +44,76 @@ He desarrollado software para:
 
 ### Lenguajes
 
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp" />
+</p>
+
 - JavaScript / TypeScript  
 - C#  
 - VB.NET  
 - C++  
 - Visual Basic clásico  
-- VBScript (Ofimática)  
+- VBScript  
 - Turbo C  
 
 ### Frontend
 
-- React  
-- Vite  
-- TailwindCSS  
-- Next.js  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+</p>
 
-### Backend
+### Backend & DB
 
-- .NET  
-- Node.js  
-- APIs REST  
-- Prisma ORM  
-- SQL Server  
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,prisma,sqlserver" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/snake.svg" />
+</p>
+
+> ⚠️ El snake requiere GitHub Action (abajo te explico)
+
+---
+
+## 🚀 Proyecto Destacado
+
+### 💼 DagoNet ERP
+
+ERP moderno orientado a equipos que necesitan control operativo eficiente.
+
+**Características:**
+
+- ✅ Multi-empresa  
+- ✅ Control de roles y permisos  
+- ✅ Arquitectura moderna  
+- ✅ Alto rendimiento  
 
 ---
 
 ## 🤝 Habilidades Blandas
 
-- 🗣️ Comunicación clara con usuarios y stakeholders  
-- 🔗 Facilidad para conectar con equipos de negocio  
-- 🎯 Enfoque en solución de problemas  
+- 🗣️ Comunicación efectiva con usuarios  
+- 🔗 Alta conexión con equipos de negocio  
+- 🎯 Resolución de problemas complejos  
 - 🚀 Mentalidad de mejora continua  
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjoseclararivera&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjoseclararivera&theme=dark" />
-</p>
-
----
-
-## 📌 Proyecto Destacado
-
-### 🚀 DagoNet ERP
-
-Sistema ERP ligero orientado a equipos empresariales que requieren control operativo eficiente y modular.
-
-**Características clave:**
-
-- Multi-empresa  
-- Control de usuarios y roles  
-- Arquitectura moderna  
-- Alto rendimiento  
 
 ---
 
@@ -107,6 +124,5 @@ Todos los proyectos públicos están bajo licencia **MIT**.
 ---
 
 <p align="center">
-  ⭐ Siempre construyendo soluciones que generan valor real
+  ⭐ Construyendo software que impulsa negocios reales
 </p>
-
