@@ -1,6 +1,6 @@
 <!-- ===== BANNER ===== -->
 <p align="center">
-  <img src="imagenes/banner.png" alt="Juan José Clara banner" />
+  <img src="imagenes/baner.png" alt="Juan José Clara banner" />
 </p>
 
 <!-- ===== AVATAR ===== -->
