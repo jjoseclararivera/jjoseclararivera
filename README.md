@@ -95,7 +95,9 @@ ERP moderno orientado a equipos que necesitan control operativo eficiente.
 
 ---
 <br>
+
 ## Check out my Social Media
+<br>
 
 <a href= "https://www.instagram.com/jjoseclararivera/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -105,11 +107,13 @@ ERP moderno orientado a equipos que necesitan control operativo eficiente.
 </a>
 --
 <br>
+
 ## 📄 Licencia
 
 Todos los proyectos públicos están bajo licencia **MIT**.
 ---
 <br>
+
 <p align="center">
   ⭐ Construyendo software que impulsa negocios reales
 </p>
