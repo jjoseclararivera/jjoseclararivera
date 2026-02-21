@@ -58,6 +58,7 @@ Currently focused on the development of DagoNet ERP, a modern platform for multi
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Postgres-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
 ---
