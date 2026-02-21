@@ -113,7 +113,7 @@ A modern ERP system designed for teams that need efficient operational control.
 <a href="https://www.instagram.com/jjoseclararivera/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.twitch.tv/valenwerle" > 
+<a href="[https://dashboard.twitch.tv/u/juan_clara/home" > 
 <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
 </a>
 --
@@ -124,6 +124,5 @@ A modern ERP system designed for teams that need efficient operational control.
 <p align="left"> 
 All public projects are under **MIT** license.
 </p>
-
 ---
 <br>
