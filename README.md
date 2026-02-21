@@ -43,13 +43,13 @@ Actualmente enfocado en el desarrollo de **DagoNet ERP**, una plataforma moderna
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,vite,tailwind" />
 </p>
 
 ### Backend & DB
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,prisma,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=nest,dotnet,nodejs,prisma,sqlserver" />
 </p>
 
 ---
@@ -94,9 +94,10 @@ ERP moderno orientado a equipos que necesitan control operativo eficiente.
 - 🚀 Mentalidad de mejora continua  
 
 ---
+<br>
 ## Check out my Social Media
 
-<a href= "[https://www.instagram.com/valenwerle/](https://www.instagram.com/jjoseclararivera/?hl=es">
+<a href= "[https://www.instagram.com/jjoseclararivera/?hl=es]">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="https://www.tiktok.com/@vapixel_" >
