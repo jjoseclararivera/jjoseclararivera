@@ -3,45 +3,41 @@
 <br>
 
 ## 🚀 Sobre mí
-## 🚀 Proyecto Destacado
 
-Desarrollador **Fullstack Senior** especializado en construcción de sistemas empresariales robustos y escalables.  
-Actualmente enfocado en el desarrollo de **DagoNet ERP**, una plataforma moderna para gestión empresarial multi-empresa.
+Senior Fullstack Developer specializing in building robust and scalable enterprise systems.
+Currently focused on the development of DagoNet ERP, a modern platform for multi-company business management.
 
-- 🧠 Enfoque en arquitectura limpia  
-- ⚡ Optimización de rendimiento  
-- 🏗️ Diseño de sistemas empresariales  
-- 🎯 Orientado a resultados de negocio  
-
+- 🧠 Focus on clean architecture
+- ⚡ Performance optimization
+- 🏗️ Enterprise systems design
+- 🎯 Business results-oriented
 ---
 
-## 🏢 Experiencia por sector
+## 🏢 Experience by Sector
 
-- 🏦 Banca  
-- 📈 Mercado bursátil  
-- 🛒 Comercios  
-- 🌱 Agricultura  
-- 🍽️ Restaurantes  
-- 🏛️ Ayuntamientos  
+- 🏦 Banking
+- 📈 Stock Market
+- ​​🛒 Retail
+- 🌱 Agriculture
+- 🍽️ Restaurants
+- 🏛️ Local Government  
 
 ---
+## 🛠️ Technological Stack
 
-## 🛠️ Stack Tecnológico
+### Languages
 
-### Lenguajes
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp" />
+<p> 
+<img src="https://skillicons.dev/icons?i=js,ts,cs,cpp" />
 </p>
 
-- JavaScript / TypeScript  
-- C#  
-- VB.NET  
-- C++  
-- Visual Basic clásico  
-- VBScript  
-- Turbo C  
-
+- JavaScript/TypeScript
+- C#
+- VB.NET
+- C++
+- Classic Visual Basic
+- VBScript
+- Turbo C
 ### Frontend
 
 <p>
@@ -113,7 +109,7 @@ ERP moderno orientado a equipos que necesitan control operativo eficiente.
 ## 📄 Licencia
 
 <p align="left">
-  ⭐ Todos los proyectos públicos están bajo licencia **MIT**.
+  Todos los proyectos públicos están bajo licencia **MIT**.
 </p>
 
 ---
