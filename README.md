@@ -1,8 +1,8 @@
 <!-- ===== TYPING EFFECT ===== -->
-<h1 align="center"><b>Hola soy Juan José Clara</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello, I'm Juan José Clara.</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 
-## 🚀 Sobre mí
+## 🚀 About me
 
 Senior Fullstack Developer specializing in building robust and scalable enterprise systems.
 Currently focused on the development of DagoNet ERP, a modern platform for multi-company business management.
@@ -38,6 +38,7 @@ Currently focused on the development of DagoNet ERP, a modern platform for multi
 - Classic Visual Basic
 - VBScript
 - Turbo C
+  
 ### Frontend
 
 <p>
@@ -49,6 +50,15 @@ Currently focused on the development of DagoNet ERP, a modern platform for multi
 <p>
   <img src="https://skillicons.dev/icons?i=nest,dotnet,nodejs,prisma,sqlserver" />
 </p>
+
+### Other Tools and Technologies
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
 
 ---
 
@@ -69,27 +79,27 @@ Currently focused on the development of DagoNet ERP, a modern platform for multi
 
 
 
-## 🚀 Proyecto Destacado
+## 🚀 Featured Project
 
 ### 💼 DagoNet ERP
 
-ERP moderno orientado a equipos que necesitan control operativo eficiente.
+A modern ERP system designed for teams that need efficient operational control.
 
-**Características:**
+**Features:**
 
-- ✅ Multi-empresa  
-- ✅ Control de roles y permisos  
-- ✅ Arquitectura moderna  
-- ✅ Alto rendimiento  
+- ✅ Multi-company
+- ✅ Role and permission control
+- ✅ Modern architecture
+- ✅ High performance
 
 ---
 
-## 🤝 Habilidades Blandas
+## 🤝 Soft Skills
 
-- 🗣️ Comunicación efectiva con usuarios  
-- 🔗 Alta conexión con equipos de negocio  
-- 🎯 Resolución de problemas complejos  
-- 🚀 Mentalidad de mejora continua  
+- 🗣️ Effective communication with users
+- 🔗 Strong connection with business teams
+- 🎯 Complex problem-solving
+- 🚀 Continuous improvement mindset
 
 ---
 <br>
@@ -97,19 +107,19 @@ ERP moderno orientado a equipos que necesitan control operativo eficiente.
 ## Check out my Social Media
 <br>
 
-<a href= "https://www.instagram.com/jjoseclararivera/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://www.instagram.com/jjoseclararivera/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.twitch.tv/valenwerle" >
-  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+<a href="https://www.twitch.tv/valenwerle" > 
+<img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
 </a>
 --
 <br>
 
-## 📄 Licencia
+## 📄 License
 
-<p align="left">
-  Todos los proyectos públicos están bajo licencia **MIT**.
+<p align="left"> 
+All public projects are under **MIT** license.
 </p>
 
 ---
