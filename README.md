@@ -1,7 +1,3 @@
-<!-- ===== BANNER ===== -->
-<p align="center">
-  <img src="imagenes/banner1.png" alt="Juan José Clara banner" />
-</p>
 
 <!-- ===== TYPING EFFECT ===== -->
 <h1 align="center">Juan José Clara</h1>
