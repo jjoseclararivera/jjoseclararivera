@@ -97,7 +97,7 @@ ERP moderno orientado a equipos que necesitan control operativo eficiente.
 <br>
 ## Check out my Social Media
 
-<a href= "[https://www.instagram.com/jjoseclararivera/?hl=es]">
+<a href= "https://www.instagram.com/jjoseclararivera/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="https://www.tiktok.com/@vapixel_" >
