@@ -124,7 +124,3 @@ All public projects are under **MIT** license.
 
 ---
 <br>
-
-<p align="center">
-  ⭐ Construyendo software que impulsa negocios reales
-</p>
