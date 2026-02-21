@@ -63,7 +63,7 @@ Currently focused on the development of DagoNet ERP, a modern platform for multi
   <img src="https://img.shields.io/badge/Postgres-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
----
+<br>
 
 ## 📊 GitHub Stats
 
@@ -71,7 +71,7 @@ Currently focused on the development of DagoNet ERP, a modern platform for multi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjoseclararivera&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<br>
 
 ## 🐍 Contribution Snake
 
@@ -79,8 +79,6 @@ Currently focused on the development of DagoNet ERP, a modern platform for multi
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jjoseclararivera/jjoseclararivera/output/snake-dark.svg">
   <img alt="snake" src="https://raw.githubusercontent.com/jjoseclararivera/jjoseclararivera/output/snake.svg">
 </picture>
-
-
 
 ## 🚀 Featured Project
 
@@ -113,7 +111,8 @@ A modern ERP system designed for teams that need efficient operational control.
 </a>
 <a href="https://www.twitch.tv/juan_clara" >
   <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-</a>--
+</a>
+
 <br>
 
 ## 📄 License
@@ -121,5 +120,5 @@ A modern ERP system designed for teams that need efficient operational control.
 <p align="left"> 
 All public projects are under **MIT** license.
 </p>
----
+
 <br>
