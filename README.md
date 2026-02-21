@@ -1,7 +1,9 @@
 <!-- ===== TYPING EFFECT ===== -->
 <h1 align="center"><b>Hola soy Juan José Clara</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
+
 ## 🚀 Sobre mí
+## 🚀 Proyecto Destacado
 
 Desarrollador **Fullstack Senior** especializado en construcción de sistemas empresariales robustos y escalables.  
 Actualmente enfocado en el desarrollo de **DagoNet ERP**, una plataforma moderna para gestión empresarial multi-empresa.
@@ -110,7 +112,10 @@ ERP moderno orientado a equipos que necesitan control operativo eficiente.
 
 ## 📄 Licencia
 
-Todos los proyectos públicos están bajo licencia **MIT**.
+<p align="left">
+  ⭐ Todos los proyectos públicos están bajo licencia **MIT**.
+</p>
+
 ---
 <br>
 
