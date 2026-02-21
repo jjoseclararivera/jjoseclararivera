@@ -4,7 +4,7 @@
 
 ## 🚀 About me
 
-<img align="right" width=300px alt="Unicorn" src="iamgenes/delfin.gif" />
+<img align="right" width=300px alt="Unicorn" src="imagenes/delfin.gif" />
 
 Senior Fullstack Developer specializing in building robust and scalable enterprise systems.
 Currently focused on the development of DagoNet ERP, a modern platform for multi-company business management.
